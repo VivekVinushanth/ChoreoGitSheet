@@ -1,0 +1,2 @@
+- name: Tweet-trigger-publish-release
+  uses: mugi111/tweet-trigger-release@v1.2
